@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # 💫 About Me:
-## What I Do<br><br>- 🔭 Currently working on LOOT8 with Antematter<br>- 🌱 Learning about web3<br>- 💬 Ask me about React, React Native<br>- 📫 How to reach me: +92-347-5270640, iisraromar@gmail.com
+## What I Do<br><br>- 🔭 Currently working on [![LOOT8](https://loot8.io/)] with [![Antematter](https://antematter.io/)]<br>- 🌱 Learning about web3<br>- 💬 Ask me about React, React Native<br>- 📫 How to reach me: +92-347-5270640, iisraromar@gmail.com
 
 
 ## 🌐 Socials:
