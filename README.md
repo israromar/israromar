@@ -1,8 +1,11 @@
 ### Hi there 👋
 
-# 💫 About Me:
-## What I Do<br><br>- 🔭 Currently working on [![LOOT8](https://loot8.io/)] with [![Antematter](https://antematter.io/)]<br>- 🌱 Learning about web3<br>- 💬 Ask me about React, React Native<br>- 📫 How to reach me: +92-347-5270640, iisraromar@gmail.com
+## What I Do
 
+- 🔭 Currently working on [LOOT8](https://loot8.io/) with [Antematter](https://antematter.io/)
+- 🌱 Learning about Web3
+- 💬 Ask me about React, React Native
+- 📫 How to reach me: +92-347-5270640 | iisraromar@gmail.com
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/israromar) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/israromar) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/israromar) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/iisraromar) 
