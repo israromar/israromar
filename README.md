@@ -38,7 +38,7 @@
     </td>
     <td valign="top" width="40%">
       <h3>🔥 Monthly Streak</h3>
-      <img src="https://streak-stats.demolab.com/?user=israromar&theme=tokyonight&hide_border=true&fire=A78BFA&ring=A78BFA&currStreakLabel=A78BFA" alt="Streak Stats" width="100%" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=israromar&theme=tokyonight&hide_border=true" alt="Streak Stats" width="100%" />
     </td>
   </tr>
 </table>
