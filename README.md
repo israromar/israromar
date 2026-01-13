@@ -39,12 +39,11 @@
 
 <br/>
 
-<div align="center">
-  <table>
-    <tr>
-      <td valign="top" width="55%">
-        
-**👨‍💻 Identity Matrix**
+<table>
+<tr>
+<td width="55%" valign="top">
+
+### 👨‍💻 Identity Matrix
 
 ```javascript
 const israr_khan = {
@@ -57,22 +56,20 @@ const israr_khan = {
 };
 ```
 
-      </td>
-      <td valign="top" width="45%">
+</td>
+<td width="45%" valign="top">
 
-**🔥 Persistence Log**
+### 🔥 Persistence Log
 
 <div align="center">
-  
+
 [![GitHub Streak](https://streak-stats.demolab.com/?user=israromar&theme=tokyonight&hide_border=true)](https://github.com/israromar/israromar)
 
 </div>
 
-      </td>
-    </tr>
-
-  </table>
-</div>
+</td>
+</tr>
+</table>
 
 <br/>
 
