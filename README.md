@@ -2,7 +2,6 @@
   <img src="header1.png" alt="Israr Khan" width="100%" />
 </div>
 
-<!-- Reduced whitespace -->
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&lines=Architecting+Web3+Solutions;Full+Stack+%26+Mobile+Developer;Crafting+Digital+Experiences" alt="Typing SVG" />
 </div>
