@@ -26,7 +26,7 @@
   <tr>
     <td valign="top" width="55%">
       <h3>👨‍💻 Identity Matrix</h3>
-<pre lang="javascript">
+```javascript
 const israr_khan = {
   current_mission: ["SAID", "Antematter"],
   exploiting_knowledge: ["Web3", "Blockchain", "Smart Contracts"],
@@ -35,14 +35,14 @@ const israr_khan = {
   communication_protocols: ["Mobile Arch", "UX", "Scaling"],
   contact_signal: "+92-347-5270640"
 };
-</pre>
+```
     </td>
     <td valign="top" width="45%">
       <h3>🔥 Persistence Log</h3>
       <div align="center">
         <!-- Minimal params to fix 500 error -->
-        <a href="https://git.io/streak-stats">
-          <img src="https://github-readme-streak-stats.herokuapp.com/?user=israromar&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Streak Stats" width="100%" /> 
+        <a href="https://github.com/israromar/israromar">
+          <img src="https://streak-stats.demolab.com/?user=israromar&theme=tokyonight&hide_border=true" alt="Streak Stats" width="100%" /> 
         </a>
       </div>
     </td>
