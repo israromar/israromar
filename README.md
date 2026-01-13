@@ -43,29 +43,25 @@
 <tr>
 <td width="55%" valign="top">
 
-### 👨‍💻 Identity Matrix
+<h3>👨‍💻 About Me</h3>
 
-```javascript
-const israr_khan = {
-  current_mission: ["SAID", "Antematter"],
-  exploring: ["Web3", "Blockchain", "Smart Contracts"],
-  tech_stack: ["React Native", "Next.js", "Node.js"],
-  location: "Remote / Worldwide",
-  expertise: ["Mobile Arch", "UX", "Scaling"],
-  contact: "+92-347-5270640",
-};
-```
+<table>
+  <tr><td>🔭 <b>Building</b></td><td><a href="https://saidtranslations.com/">SAID</a> & <a href="https://antematter.io/">Antematter</a></td></tr>
+  <tr><td>🌱 <b>Exploring</b></td><td>Web3, Blockchain, Smart Contracts</td></tr>
+  <tr><td>💻 <b>Tech Stack</b></td><td>React Native, Next.js, Node.js</td></tr>
+  <tr><td>📍 <b>Location</b></td><td>Remote / Worldwide</td></tr>
+  <tr><td>💬 <b>Expertise</b></td><td>Mobile Arch, UX, Scaling</td></tr>
+  <tr><td>📫 <b>Contact</b></td><td>+92-347-5270640</td></tr>
+</table>
 
 </td>
 <td width="45%" valign="top">
 
-### 🔥 Persistence Log
+<h3>🔥 Streak Stats</h3>
 
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=israromar&theme=tokyonight&hide_border=true)](https://github.com/israromar/israromar)
-
-</div>
+<a href="https://github.com/israromar/israromar">
+  <img src="https://streak-stats.demolab.com/?user=israromar&theme=tokyonight&hide_border=true" width="100%" alt="Streak Stats"/>
+</a>
 
 </td>
 </tr>
