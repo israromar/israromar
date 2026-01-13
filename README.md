@@ -26,26 +26,30 @@
   <tr>
     <td valign="top" width="55%">
       <h3>👨‍💻 Identity Matrix</h3>
-```javascript
+      
+```js
 const israr_khan = {
   current_mission: ["SAID", "Antematter"],
-  exploiting_knowledge: ["Web3", "Blockchain", "Smart Contracts"],
-  tech_synapses: ["React Native", "Next.js", "Node.js"],
-  base_location: "Remote / Worldwide",
-  communication_protocols: ["Mobile Arch", "UX", "Scaling"],
-  contact_signal: "+92-347-5270640"
+  exploring: ["Web3", "Blockchain", "Smart Contracts"],
+  tech_stack: ["React Native", "Next.js", "Node.js"],
+  location: "Remote / Worldwide",
+  expertise: ["Mobile Arch", "UX", "Scaling"],
+  contact: "+92-347-5270640"
 };
 ```
+
+
     </td>
     <td valign="top" width="45%">
       <h3>🔥 Persistence Log</h3>
       <div align="center">
         <!-- Minimal params to fix 500 error -->
         <a href="https://github.com/israromar/israromar">
-          <img src="https://streak-stats.demolab.com/?user=israromar&theme=tokyonight&hide_border=true" alt="Streak Stats" width="100%" /> 
+          <img src="https://streak-stats.demolab.com/?user=israromar&theme=tokyonight&hide_border=true" alt="Streak Stats" width="100%" />
         </a>
       </div>
     </td>
+
   </tr>
 </table>
 </div>
