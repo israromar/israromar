@@ -25,20 +25,27 @@
 <div align="center">
 <table>
   <tr>
-    <td valign="top" width="60%">
-      <h3>👨‍💻 About Me</h3>
-      <p>
-        🔭 Building: <b><a href="https://saidtranslations.com/">SAID</a></b> & <b><a href="https://antematter.io/">Antematter</a></b><br/>
-        🌱 Exploring: <b>Web3, Blockchain & Smart Contracts</b><br/>
-        � Stack: <b>React Native, Next.js, Node.js</b><br/>
-        📍 Based in: <b>Remote / Worldwide</b><br/>
-        💬 Ask me about: <b>Mobile Arch, UX, & Scaling</b><br/>
-        📫 Contact: <b>+92-347-5270640</b>
-      </p>
+    <td valign="top" width="55%">
+      <h3>👨‍💻 Identity Matrix</h3>
+<pre lang="javascript">
+const israr_khan = {
+  current_mission: ["SAID", "Antematter"],
+  exploiting_knowledge: ["Web3", "Blockchain", "Smart Contracts"],
+  tech_synapses: ["React Native", "Next.js", "Node.js"],
+  base_location: "Remote / Worldwide",
+  communication_protocols: ["Mobile Arch", "UX", "Scaling"],
+  contact_signal: "+92-347-5270640"
+};
+</pre>
     </td>
-    <td valign="top" width="40%">
-      <h3>🔥 Monthly Streak</h3>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=israromar&theme=tokyonight&hide_border=true" alt="Streak Stats" width="100%" />
+    <td valign="top" width="45%">
+      <h3>🔥 Persistence Log</h3>
+      <div align="center">
+        <!-- Minimal params to fix 500 error -->
+        <a href="https://git.io/streak-stats">
+          <img src="https://github-readme-streak-stats.herokuapp.com/?user=israromar&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Streak Stats" width="100%" /> 
+        </a>
+      </div>
     </td>
   </tr>
 </table>
