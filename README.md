@@ -53,13 +53,13 @@
 
 <div align="center">
   <h2>📊 Performance</h2>
-  <img src="https://github-readme-stats.vercel.app/api?username=israromar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA" height="160" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=israromar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA" height="160" alt="Top Langs" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=israromar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA" height="160" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=israromar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA" height="160" alt="Top Langs" />
 </div>
 
 <div align="center">
   <br />
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer&text=Let's%20Build%20The%20Future&fontSize=20&fontColor=ffffff" width="100%" />
   <br />
-  <img src="https://visitcount.itsvg.in/api?id=israromar&icon=5&color=6" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=israromar&style=flat-square&label=Profile+Views&color=A78BFA" alt="Profile Views" />
 </div>
