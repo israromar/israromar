@@ -43,32 +43,31 @@
   <table>
     <tr>
       <td valign="top" width="55%">
-        <h3>👨‍💻 Identity Matrix</h3>
+        
+**👨‍💻 Identity Matrix**
 
-<pre><code class="language-js">
+```javascript
 const israr_khan = {
   current_mission: ["SAID", "Antematter"],
   exploring: ["Web3", "Blockchain", "Smart Contracts"],
   tech_stack: ["React Native", "Next.js", "Node.js"],
   location: "Remote / Worldwide",
   expertise: ["Mobile Arch", "UX", "Scaling"],
-  contact: "+92-347-5270640"
+  contact: "+92-347-5270640",
 };
-</code></pre>
+```
 
       </td>
-
       <td valign="top" width="45%">
-        <h3>🔥 Persistence Log</h3>
-        <div align="center">
-          <a href="https://github.com/israromar/israromar">
-            <img
-              src="https://streak-stats.demolab.com/?user=israromar&theme=tokyonight&hide_border=true"
-              alt="Streak Stats"
-              width="100%"
-            />
-          </a>
-        </div>
+
+**🔥 Persistence Log**
+
+<div align="center">
+  
+[![GitHub Streak](https://streak-stats.demolab.com/?user=israromar&theme=tokyonight&hide_border=true)](https://github.com/israromar/israromar)
+
+</div>
+
       </td>
     </tr>
 
