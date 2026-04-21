@@ -1,8 +1,4 @@
 <div align="center">
-  <img src="banner.png" alt="Israr Khan - Senior Mobile Engineer" width="100%" />
-</div>
-
-<div align="center">
   <h1>Israr Khan</h1>
   <p><b>Senior Mobile Engineer | Offline-First Systems | On-Device AI Specialist</b></p>
   <p>
