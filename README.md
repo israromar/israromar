@@ -8,11 +8,11 @@
 
 ---
 
-### 💡 Executive Summary
+### Executive Summary
 
 Senior Mobile Engineer with **6+ years of experience** building scalable, production-grade applications used by thousands. My engineering philosophy centers on **Privacy-Preserving AI** and **Offline-First Architectures**, specialized in bridging the gap between high-performance mobile UX and complex on-device computation.
 
-### 🛠 Core Competencies
+### Core Competencies
 
 - **Mobile Architecture**: Expert implementation of React Native and Expo ecosystems; specialized in modular, performant cross-platform design.
 - **On-Device AI & ML**: Real-world integration of LLMs (Qwen, Meta NLLB) for local inference using `onnxruntime`, eliminating cloud dependency for sensitive data.
