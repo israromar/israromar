@@ -3,7 +3,6 @@
   <p><b>Senior Mobile Engineer | Offline-First Systems | On-Device AI Specialist</b></p>
   <p>
     <a href="https://linkedin.com/in/israromar">LinkedIn</a> • 
-    <a href="https://github.com/israromar">GitHub</a> • 
     <a href="mailto:iisraromar@gmail.com">Email</a>
   </p>
 </div>
