@@ -1,6 +1,5 @@
 <div align="center">
-  <h1>Israr Khan</h1>
-  <p><b>Senior Mobile Engineer | Offline-First Systems | On-Device AI Specialist</b></p>
+  <h1>Senior Mobile Engineer | Offline-First Systems | On-Device AI Specialist</h1>
   <p>
     <a href="https://linkedin.com/in/israromar">LinkedIn</a> • 
     <a href="mailto:iisraromar@gmail.com">Email</a>
