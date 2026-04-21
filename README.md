@@ -21,7 +21,7 @@ Senior Mobile Engineer with **6+ years of experience** building scalable, produc
 
 ---
 
-### 💻 Technical Ecosystem
+### Technical Ecosystem
 
 <table>
   <tr>
