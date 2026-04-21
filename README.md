@@ -27,34 +27,6 @@ Senior Mobile Engineer with **6+ years of experience** building scalable, produc
 
 ---
 
-### 🚀 Selected Technical Impact
-
-#### **Antematter (LOOT8)** | _Senior Software Engineer_
-
-_Web3 Mobile Platform & AI Translation System_
-
-- Developed a privacy-first, **offline-ready AI translation system** using local LLM inference (Qwen/NLLB), ensuring 100% cloud-independent processing.
-- Scaled React Native features for a high-traffic Web3 ecosystem, managing complex blockchain interactions via Ethers.js and GraphQL.
-- **Key Wins**: Improved system reliability and data consistency through rigorous API contract design and architectural standardization.
-
-#### **SAID Translations** | _Open Source / Pilot_
-
-_Medical-Grade Offline Translation Engine_
-
-- Engineered a specialized translation system for sensitive medical environments where data privacy and offline capability are non-negotiable.
-- Optimized local model performance using the ONNX ecosystem for mobile-optimized inference.
-- **Stack**: React Native, onnxruntime, Meta NLLB.
-
-#### **Lawgbook** | _AI Lead_
-
-_Intelligent Legal Billing Automation_
-
-- Architected a FastAPI-driven ingestion pipeline processing high-volume activity data from various communication hooks.
-- Implemented a multi-provider LLM workflow (OpenRouter + OpenCode) with structured tracing for activity-to-entity classification.
-- **Stack**: Python, FastAPI, PostgreSQL, LLM Orchestration.
-
----
-
 ### 💻 Technical Ecosystem
 
 <table>
