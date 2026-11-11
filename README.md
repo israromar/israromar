@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Senior Mobile Engineer | Offline-First Systems | On-Device AI Specialist</h1>
+  <h1>Software Engineer | Offline-First Systems | On-Device AI Specialist</h1>
   <p>
     <a href="https://linkedin.com/in/israromar">LinkedIn</a> • 
     <a href="mailto:iisraromar@gmail.com">Email</a>
@@ -10,7 +10,7 @@
 
 ### Executive Summary
 
-Senior Mobile Engineer with **6+ years of experience** building scalable, production-grade applications used by thousands. My engineering philosophy centers on **Privacy-Preserving AI** and **Offline-First Architectures**, specialized in bridging the gap between high-performance mobile UX and complex on-device computation.
+Software Engineer with **6+ years of experience** building scalable, production-grade applications used by thousands. My engineering philosophy centers on **Privacy-Preserving AI** and **Offline-First Architectures**, specialized in bridging the gap between high-performance mobile UX and complex on-device computation.
 
 ### Core Competencies
 
